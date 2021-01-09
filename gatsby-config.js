@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
     // Site URL for when it goes live
-    siteUrl: `https://elastic-meninsky-aa7c74.netlify.app/`,
+    siteUrl: `https://amazing-elion-7bbe62.netlify.app/`,
     // Your Name
     name: 'Zakaria Khitalishvili',
     // Main Site Title
@@ -24,7 +24,7 @@ module.exports = {
     //       'A zero-config and blazing fast personal site + blog built with GatsbyJs and TailwindCSS',
     //     link: 'https://github.com/RyanFitzgerald/devfolio',
     //   },
-    //   {
+    //   {git
     //     name: 'ChromeExtensionKit',
     //     description:
     //       'Kit to jump-start your Chrome extension projects with a variety of battle-tested starter templates',
